@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![](https://komarev.com/ghpvc/?username=your-github-username&label=Profile+Views&color=blueviolet)
+
 ## 🧑 About me
 
 - 💻 Developer
